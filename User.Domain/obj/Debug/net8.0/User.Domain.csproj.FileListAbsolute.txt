@@ -1,0 +1,15 @@
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/User.Domain/bin/Debug/net8.0/User.Domain.deps.json
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/User.Domain/bin/Debug/net8.0/User.Domain.dll
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/User.Domain/bin/Debug/net8.0/User.Domain.pdb
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/User.Domain/bin/Debug/net8.0/SharedModels.dll
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/User.Domain/bin/Debug/net8.0/SharedModels.pdb
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/User.Domain/obj/Debug/net8.0/User.Domain.csproj.AssemblyReference.cache
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/User.Domain/obj/Debug/net8.0/User.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/User.Domain/obj/Debug/net8.0/User.Domain.AssemblyInfoInputs.cache
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/User.Domain/obj/Debug/net8.0/User.Domain.AssemblyInfo.cs
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/User.Domain/obj/Debug/net8.0/User.Domain.csproj.CoreCompileInputs.cache
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/User.Domain/obj/Debug/net8.0/User.Dom.60DAC363.Up2Date
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/User.Domain/obj/Debug/net8.0/User.Domain.dll
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/User.Domain/obj/Debug/net8.0/refint/User.Domain.dll
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/User.Domain/obj/Debug/net8.0/User.Domain.pdb
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/User.Domain/obj/Debug/net8.0/ref/User.Domain.dll

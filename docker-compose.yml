@@ -1,0 +1,6 @@
+﻿services:
+  course.api:
+    image: course.api
+    build:
+      context: .
+      dockerfile: Course.API/Dockerfile
