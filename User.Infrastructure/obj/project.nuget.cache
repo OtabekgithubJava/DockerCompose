@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "fHDyTKVIq9cVYOVH6Je+4e4Mz/szvVyFYo0gkzKZpiJRfWluWTGPCuVBnDbHkPEt4Dr1spf/l69gJNHcfdOBEA==",
+  "dgSpecHash": "MHGhBnpJGhy3cv8e3uS20lcm00Bvzl6Zz+R5xQxnu/NpEI/xUtdP9z/JRup3D/9ay5FGuv1pYfkn/XvuCWQllw==",
   "success": true,
   "projectFilePath": "/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/DockerGo/User.Infrastructure/User.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/otabek_coding/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/Users/otabek_coding/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/otabek_coding/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
     "/Users/otabek_coding/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "/Users/otabek_coding/.nuget/packages/microsoft.codeanalysis.analyzers/3.3.3/microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
     "/Users/otabek_coding/.nuget/packages/microsoft.codeanalysis.common/4.5.0/microsoft.codeanalysis.common.4.5.0.nupkg.sha512",
