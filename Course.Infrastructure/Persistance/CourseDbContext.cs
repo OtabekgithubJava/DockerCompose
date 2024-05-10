@@ -6,8 +6,8 @@ namespace Course.Infrastructure.Persistance;
 public class CourseDbContext: DbContext, ICourseDbContext
 {
 
-    public CourseDbContext(DbContextOptions<CourseDbContext> options) :
-        base(options)
+    public CourseDbContext(DbContextOptions<CourseDbContext> options) 
+        : base(options)
     {
         
     }

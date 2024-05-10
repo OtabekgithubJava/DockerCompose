@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "f+hNvIAiEAzD3D2hI2bX7O7Y9tmhWn74XWXXImFlyNpx1LyvTt9BkVYnJW4NMjXTHYbvPTUs48cz0y1MGMj2xA==",
+  "dgSpecHash": "9wU6CpKduk6DuJLZoleg7qLx9FB6XEIvXOXFG/O9RKWnKMpigz38Hu9mY+h9RqrRspvcOrwIyHg+T9McWtsaVA==",
   "success": true,
   "projectFilePath": "/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/DockerGo/Payment.Infrastructure/Payment.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/otabek_coding/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/Users/otabek_coding/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/otabek_coding/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/otabek_coding/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.0.0/mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "/Users/otabek_coding/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "/Users/otabek_coding/.nuget/packages/microsoft.codeanalysis.analyzers/3.3.3/microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
     "/Users/otabek_coding/.nuget/packages/microsoft.codeanalysis.common/4.5.0/microsoft.codeanalysis.common.4.5.0.nupkg.sha512",

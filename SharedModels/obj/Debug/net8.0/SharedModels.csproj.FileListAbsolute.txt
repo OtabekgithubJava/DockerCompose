@@ -10,3 +10,16 @@
 /Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/SharedModels/obj/Debug/net8.0/refint/SharedModels.dll
 /Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/SharedModels/obj/Debug/net8.0/SharedModels.pdb
 /Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/SharedModels/obj/Debug/net8.0/ref/SharedModels.dll
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/DockerGo/SharedModels/bin/Debug/net8.0/SharedModels.deps.json
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/DockerGo/SharedModels/bin/Debug/net8.0/SharedModels.dll
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/DockerGo/SharedModels/bin/Debug/net8.0/SharedModels.pdb
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/DockerGo/SharedModels/obj/Debug/net8.0/SharedModels.csproj.AssemblyReference.cache
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/DockerGo/SharedModels/obj/Debug/net8.0/SharedModels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/DockerGo/SharedModels/obj/Debug/net8.0/SharedModels.AssemblyInfoInputs.cache
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/DockerGo/SharedModels/obj/Debug/net8.0/SharedModels.AssemblyInfo.cs
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/DockerGo/SharedModels/obj/Debug/net8.0/SharedModels.csproj.CoreCompileInputs.cache
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/DockerGo/SharedModels/obj/Debug/net8.0/SharedModels.sourcelink.json
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/DockerGo/SharedModels/obj/Debug/net8.0/SharedModels.dll
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/DockerGo/SharedModels/obj/Debug/net8.0/refint/SharedModels.dll
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/DockerGo/SharedModels/obj/Debug/net8.0/SharedModels.pdb
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/DockerGo/SharedModels/obj/Debug/net8.0/ref/SharedModels.dll

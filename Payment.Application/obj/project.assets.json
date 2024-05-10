@@ -31,6 +31,19 @@
           }
         }
       },
+      "MediatR.Extensions.Microsoft.DependencyInjection/11.0.0": {
+        "type": "package",
+        "dependencies": {
+          "MediatR": "11.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
+        }
+      },
       "Microsoft.EntityFrameworkCore/8.0.4": {
         "type": "package",
         "dependencies": {
@@ -227,6 +240,32 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "Payment.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.4"
+        },
+        "compile": {
+          "bin/placeholder/Payment.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Payment.Domain.dll": {}
+        }
+      },
+      "SharedModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.4"
+        },
+        "compile": {
+          "bin/placeholder/SharedModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SharedModels.dll": {}
+        }
       }
     }
   },
@@ -259,6 +298,19 @@
         "lib/netstandard2.0/MediatR.Contracts.xml",
         "mediatr.contracts.1.0.1.nupkg.sha512",
         "mediatr.contracts.nuspec"
+      ]
+    },
+    "MediatR.Extensions.Microsoft.DependencyInjection/11.0.0": {
+      "sha512": "jfD2NBYvP+HiUil2DWfM4bn+bCLp4H2xvoc9aorcnn2Jpgz7Ey8RyYMpgqeF3bs6CP6t8pzb6WkF5NFF/1RLHA==",
+      "type": "package",
+      "path": "mediatr.extensions.microsoft.dependencyinjection/11.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gradient_128x128.png",
+        "lib/netstandard2.1/MediatR.Extensions.Microsoft.DependencyInjection.dll",
+        "mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+        "mediatr.extensions.microsoft.dependencyinjection.nuspec"
       ]
     },
     "Microsoft.EntityFrameworkCore/8.0.4": {
@@ -612,13 +664,26 @@
         "microsoft.extensions.primitives.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Payment.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Payment.Domain/Payment.Domain.csproj",
+      "msbuildProject": "../Payment.Domain/Payment.Domain.csproj"
+    },
+    "SharedModels/1.0.0": {
+      "type": "project",
+      "path": "../SharedModels/SharedModels.csproj",
+      "msbuildProject": "../SharedModels/SharedModels.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "MediatR >= 11.0.0",
+      "MediatR.Extensions.Microsoft.DependencyInjection >= 11.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.4",
-      "Microsoft.EntityFrameworkCore.Abstractions >= 8.0.4"
+      "Microsoft.EntityFrameworkCore.Abstractions >= 8.0.4",
+      "Payment.Domain >= 1.0.0",
+      "SharedModels >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -645,7 +710,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/DockerGo/Payment.Domain/Payment.Domain.csproj": {
+              "projectPath": "/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/DockerGo/Payment.Domain/Payment.Domain.csproj"
+            },
+            "/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/DockerGo/SharedModels/SharedModels.csproj": {
+              "projectPath": "/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/DockerGo/SharedModels/SharedModels.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -659,6 +731,10 @@
         "targetAlias": "net8.0",
         "dependencies": {
           "MediatR": {
+            "target": "Package",
+            "version": "[11.0.0, )"
+          },
+          "MediatR.Extensions.Microsoft.DependencyInjection": {
             "target": "Package",
             "version": "[11.0.0, )"
           },

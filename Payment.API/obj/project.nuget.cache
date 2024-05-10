@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "N8hUNVgrlpQZtBeeQtbQ/Y1oSGp+z9ecp3CP2RTFb4nOUXJNhQdeKh2jV6SPnWoSlnMp8qFI9YjnNJLX8+cpOA==",
+  "dgSpecHash": "m2XAzVpItYRlIjJNtpzMTGQvwfCbuNMf/tIhtS5+qDQr57XiBS7PR//JI9aEYrnGcpaWdDnR2c0r3/8CwXRYZw==",
   "success": true,
   "projectFilePath": "/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/DockerGo/Payment.API/Payment.API.csproj",
   "expectedPackageFiles": [
+    "/Users/otabek_coding/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/otabek_coding/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/otabek_coding/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.0.0/mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "/Users/otabek_coding/.nuget/packages/microsoft.aspnetcore.openapi/8.0.4/microsoft.aspnetcore.openapi.8.0.4.nupkg.sha512",
     "/Users/otabek_coding/.nuget/packages/microsoft.entityframeworkcore/8.0.4/microsoft.entityframeworkcore.8.0.4.nupkg.sha512",
     "/Users/otabek_coding/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.4/microsoft.entityframeworkcore.abstractions.8.0.4.nupkg.sha512",
